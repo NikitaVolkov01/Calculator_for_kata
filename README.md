@@ -13,5 +13,18 @@ This calculator can calculate arithmetic operations with Arabic and Roman numera
 10. Результатом работы калькулятора с арабскими числами могут быть отрицательные числа и ноль. Результатом работы калькулятора с римскими числами могут быть только положительные числа, если результат работы меньше единицы, выбрасывается исключение
 
 Результаты работы программы:
+
 ![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/72787937-6267-4dfb-98cd-8c14d3a55197)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/ce9bac82-3222-40bc-a4f6-80f514284fb2)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/b3561dce-8349-43fc-b9f7-d4b879ff84d4)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/2cb3697c-298c-4e8d-9b86-1c74fdd6a20b)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/a2ff022f-02a3-4d50-b32c-d4fd0660be74)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/97b9fc58-0931-4978-9849-91e4baf332fe)
+![image](https://github.com/NikitaVolkov01/Calculator_for_kata/assets/63566223/35904a23-5447-47a0-847e-f77510cd22eb)
+
+
+
+
+
+
 
